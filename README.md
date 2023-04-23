@@ -20,6 +20,6 @@
 
 ## My hobby
 
-1. I make [cakes] like this (https://static.vkusnyblog.com/img3x4/uploads/2013/03/tort-chernyi-les-11.jpg)
+1. I make cakes like this ![image](https://user-images.githubusercontent.com/131171296/233854451-c95056d2-aa87-43e9-a9af-a040678a7734.png)
    
-2. I like to go to concerts of cool [metal and rock groups] like this ![FHacFMxDBdo](https://user-images.githubusercontent.com/131171296/233854358-4c9784a5-067e-447c-840b-f4b64f3fa535.jpg)
+2. I like to go to concerts of cool metal and rock groups like this ![FHacFMxDBdo](https://user-images.githubusercontent.com/131171296/233854358-4c9784a5-067e-447c-840b-f4b64f3fa535.jpg)
